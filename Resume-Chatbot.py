@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 # Configure Gemini API
-API_KEY = "AIzaSyCXB-N3Rw52PjcRPED-o5Sbw_NhNEgJ3HA"  # Your provided API key
+API_KEY = "add key"  # Your provided API key
 genai.configure(api_key=API_KEY)
 
 # Create Gemini model - Updated to use Gemini 2.5 Pro
